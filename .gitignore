@@ -1,0 +1,10 @@
+# Output files
+output/*
+*.log
+*.txt
+
+# macOS
+.DS_Store
+
+# Keep output directory
+!output/.gitkeep
